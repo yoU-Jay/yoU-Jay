@@ -41,7 +41,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/ujwal-jagadeesh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ujwal Jagadeesh's LinkedIn"/></a> <a href="https://ujwal-jagadeesh-resume.framer.website/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/ujwal-jagadeesh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ujwal Jagadeesh's LinkedIn"/></a> <a href="https://ujwal-jagadeesh.framer.website/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 <div align="center">
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="80%" />
 </div>
